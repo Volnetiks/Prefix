@@ -1,0 +1,6 @@
+name: Prefix
+version: 0.1
+author: Volnetiks
+main: com.volnetiks.prefix.Prefix
+commands:
+  prefix:
